@@ -1,0 +1,1 @@
+ProblemsList = new Mongo.Collection('problems');
